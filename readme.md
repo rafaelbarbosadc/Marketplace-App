@@ -10,6 +10,6 @@ Esta aplicação foi construída com o apoio do Bootcamp da Rocketseat. 🚀💜
 
 `docker run --name noderedis -p 6379:6379 -d -t redis:alpine`
 
-`sudo docker run -d -p 27017:27017 -p 28017:28017 --name gonode03 -e AUTH=no mongo`
+`docker run -d -p 27017:27017 -p 28017:28017 --name gonode03 -e AUTH=no mongo`
 
 Usando o comando `yarn start`, sua aplicação vai estar disponível na porta 3000. As rotas estão disponíveis no arquivo `src/routes.js`
