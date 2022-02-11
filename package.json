@@ -20,7 +20,7 @@
     "bcryptjs": "^2.4.3",
     "express": "^4.16.4",
     "express-async-handler": "^1.1.4",
-    "express-handlebars": "^3.1.0",
+    "express-handlebars": "^5.3.1",
     "express-validation": "^1.0.2",
     "joi": "^14.3.1",
     "jsonwebtoken": "^8.5.0",
