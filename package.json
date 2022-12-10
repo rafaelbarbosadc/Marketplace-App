@@ -18,7 +18,7 @@
   "dependencies": {
     "@sentry/node": "^5.4.0",
     "bcryptjs": "^2.4.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-async-handler": "^1.1.4",
     "express-handlebars": "^3.1.0",
     "express-validation": "^1.0.2",
